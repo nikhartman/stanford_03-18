@@ -2,7 +2,8 @@
      with 2 or 3 examples of where measuring entropy of a few particles is exciting -->
 <!-- specifically this started with some proposals to identify MR quasiparticles in 5/2 state -->
 <!-- explain 5/2 and introduce C-S theory -->
-<!-- cut out mohammad results -> mohammad one slide -->
+
+<!-- edit titles in experiment section to take it easy on the word entropy -->
 
 <!doctype html>
 <html>
@@ -31,15 +32,8 @@
 		<div class="reveal">
 			<div class="slides">
                 <section id="title">
-                    <!-- title -->
-					<h2>
-                        <!-- <font color="#13DAEC"> Direct Entropy Measurement in a Mesoscopic Quantum System </font> -->
-                        Direct Entropy Measurement in a Mesoscopic Quantum System
-                    </h2>
-
-                    <!-- image for title slide -->
+					<h2> Direct Entropy Measurement in a Mesoscopic Quantum System </h2>
                     <img src="mm2018/device_edited.png"> </img>
-                    <!-- author info -->
 					<p>
 						<small>
                             <span class="fragment highlight-teal"> Nikolaus Hartman </span>,
@@ -57,22 +51,73 @@
                         var d = new Date().toDateString();
                         document.getElementById("today").innerHTML = d;
                     </script>
-
 				</section>
 
-                <!-- INTRO MATERIAL -->
-
                 <section id="why-entropy">
-                    <!-- traditional measurements of entropy in solid state -->
+                    <h3>
+                        statistics of particles identified
+                        through thermodynamic measurements
+                    </h3>
+                    <p>
+                        Electrons and quasiparticles with strong interactions and non-trivial topology
+                        often have statistical properties that distinguish them from fermonic and bosonic particles.
+                    </p>
                 </section>
 
-                <section id="cool-ideas">
-                    <!-- 3 proposals of interesting low temperature entropy -->
+                <section id="idea-1">
+                    <h3> A few proposed entropy measurements: </h3>
+                    <ol>
+                        <li>
+                            Majorana bound states in semiconductor-superconductor systems.
+                            <ul>
+                                <li style="font-style: italic;"> identify non-Abelian Majorana mode by non-integer values of $e^{S/k_B}$ </li>
+                                <li style="font-size: 0.8em; font-style: italic;">
+                                     S. Smirnov, Physical Review B 92, 1 (2015).
+                                 </li>
+                            </ul>
+                        </li>
+                    </ol>
                 </section>
 
-                <section id="intro-to-5-2">
-                    <!-- proposals that lead to this work focus on quasiparticles
-                         in 5/2 FQH state -->
+                <section id="idea-2">
+                    <h3> A few proposed entropy measurements: </h3>
+                    <ol start="2">
+                        <li>
+                            Non-trivial entanglement structure in 2-channel Kondo model.
+                            <ul>
+                                <li style="font-style: italic;"> 2CK state has $S = \frac{1}{2} k_B \ln{2}$
+                                    different from both 1CK ($S = 0$) and unscreened spin-1/2 ($S = k_B \ln{2}$) </li>
+                                <li style="font-size: 0.8em; font-style: italic;">
+                                     B. Alkurtass et al., Physical Review B 93, 1 (2016).
+                                </li>
+                            </ul>
+                        </li>
+                    </ol>
+                </section>
+
+                <section id="idea-3">
+                    <h3> A few proposed entropy measurements: </h3>
+                    <ol start="3">
+                        <li>
+                            Moore-Read quasiparticles in $\nu = 5/2$ FQH state.
+                            <ul>
+                                <li style="font-style: italic;"> Discontinuity in $S$ across $\nu=5/2$ </li>
+                                <li style="font-size: 0.8em; font-style: italic;">
+                                    N. R. Cooper and A. Stern, Physical Review Letters 102, 176807 (2009).
+                                </li>
+                            </ul>
+                        </li>
+                    </ol>
+                </section>
+
+                <section id="whats-hard-about-this">
+                    <h3> What is difficult here </h3>
+                    <div style="text-align: left">
+                        <p> Entropy measurements are common in bulk and single crystal samples (mm scale)
+                            through <strong> heat capacity </strong> or <strong> magnetization </strong> measurements </p>
+                        <p> Mesoscopic system heat capacity and magnetic moments too small -- even in 2DEG Hall devices </p>
+                    <div>
+                    <p style="text-align: right" class="fragment"> ... Closer look at $\nu=5/2$ proposals for solution </p>
                 </section>
 
                 <section id="cooper-stern">
@@ -87,11 +132,6 @@
                     <p class="fragment">
                         We know how to control and measure $\delta \mu$ and $\delta T$!
                     </p>
-
-                    <!-- <p>
-                        Apply $\delta T$ and measure $\delta \mu$ to find: $s_{MR} = \frac{1}{2} k_B n_{qp} \ln{2}$
-                    </p> -->
-
                 </section>
 
                 <section id="mohammad">
@@ -100,9 +140,6 @@
                     <ul>
                         <li> Measure $\delta \mu$ using an SET capacitively-coupled to
                             the 2DEG while oscillating $\delta T$ through Joule heater </li>
-                        <!-- <li class="fragment"> Recall $s_{MR} = \frac{1}{2} k_B n_{qp} \ln{2}$
-                            &ensp;with&ensp;$n_{qp} = 4\left|n - \frac{5n_0}{2}\right|$ </li>
-                        <li class="fragment"> $\Delta S$ changes sign as system is tuned through $\nu = 5/2$ </li> -->
                     </ul>
                     <p class="fragment">
                         <strong> Negative result: </strong>
@@ -153,7 +190,7 @@
                         <li> Charging spectrum of single particle addition energies, $\mu_N$, in localized state </li>
                         <li> Coulomb blockade peak positions move with $T$ depending on $\Delta S$ </li>
                     </ul>
-                    <p>
+                    <p class="fragment">
                         $\left(\frac{\partial \mu}{\partial T}\right)_{p,N}
                         = -\left(\frac{\partial S}{\partial N}\right)_{p,T}
                         \Rightarrow \delta \mu_N = -(\Delta S_{N-1 \rightarrow N}) \delta T$
@@ -178,14 +215,14 @@
                 <!-- SPIN ENTROPY EXPERIMENT -->
 
                 <section id="device-design">
-                    <h3> Measuring entropy in a few-electron Quantum Dot </h3>
+                    <h3> entropy of localized spins in a few-electron quantum dot </h3>
                     <img style="height: 10em;"
                         src="mm2018/gaas_device.png">
                     </img>
                 </section>
 
                 <section id="what-am-i-looking-for">
-                    <h3> Experimental signature of entropy </h3>
+                    <h3> experimental signature </h3>
                     <img style="height: 8em;" src="mm2018/coulomb_blockade.png">
                     <p style="font-size: 1.5em;">
                         $\delta \mu_N = -(\Delta S_{N-1 \rightarrow N}) \delta T$
@@ -235,7 +272,7 @@
                 </section>
 
                 <section id="fitting-dS">
-                    <h3> Quantitative Measurement of Entropy </h3>
+                    <h3> Quantitative Measurement </h3>
                     <p style="font-size: 0.8em">
                         Oscillate $\delta T$ with AC current through QPC heater + <br>
                         measure $\delta G_{sens}$ with lock-in amplifier
@@ -249,7 +286,7 @@
                 </section>
 
                 <section id="fitting-dS-cont">
-                    <h3> Quantitative Measurement of Entropy </h3>
+                    <h3> Quantitative Measurement </h3>
                     <img style="height: 7em" src="mm2018/single_dg_fit.png"> </img>
                     <p>
                         <strong> Best fit: </strong>&ensp;
@@ -262,9 +299,9 @@
                 </section>
 
                 <section id="we-did-it">
-                    <h3> single particle entropy! </h3>
+                    <h2> single particle entropy! </h2>
                     <iframe src="https://giphy.com/embed/BNKGM6uOgPhp6"
-                        width="480" height="235" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+                        width="720" height="352" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
                 </section>
 
                 <section id="too-easy" style="text-align: left;">
@@ -284,12 +321,12 @@
                     </span>
                 </section>
 
-                <section id="dS-vs-dT">
-                    <section id="measurement">
+                <section id="dT-dependence">
+                    <section id="dS-vs-dT">
                         <h3> $\Delta S$ independent of $\delta T$ </h3>
                         <img style="height: 7em;" src="mm2018/dS-vs-dT.png"> </img>
                     </section>
-                    <section id="calibration">
+                    <section id="param-calibration">
                         <h3> determining $\alpha$ and $\delta T$ </h3>
                         <div style="text-align: center">
                             <img style="height: 7em; margin-right: 0.2em; margin-left: auto;"
@@ -301,30 +338,49 @@
 
                 </section>
 
+                <section id="really">
+                    <h2> Is the measured parameter really <strong> entropy </strong>? </h2>
+                    <p>
+                        Find out by tuning the spin degeneracy <br> with in-plane magnetic field.
+                    </p>
+                </section>
+
                 <section id="first-third">
                     <h3> spin-0 to spin-1/2 transitions with in-plane field </h3>
                     <img style="width: 60%; margin-bottom: 0.1em" src="mm2018/one-three_no-fits.png"> </img>
                     <img style="width: 60%; margin-top: 0.1dm" src="mm2018/dG-cuts_01.png"> </img>
                 </section>
 
-                <section id="first-third-fit">
-                    <h3> spin-0 to spin-1/2 transitions with in-plane field </h3>
-                    <img style="width: 60%; margin-bottom: 0.1em" src="mm2018/one-three_fits.png"> </img>
-                    <p>
-                        $S = k_B \sum_{-,+} p_{i}(B_\parallel, T) \ln{ p_{i}(B_\parallel,T) }$
-                        <br><br>
-                        &ensp;with&ensp;$p_{\pm}(B_\parallel, T) = (1+ e^{\mp \frac{g\mu_B B_{\parallel}}{k_B T}})^{-1}$
-                    </p>
+                <section id="first-third-fits-bias">
+                    <section id='first-third-fits'>
+                        <h3> spin-0 to spin-1/2 transitions with in-plane field </h3>
+                        <img style="width: 60%; margin-bottom: 0.1em" src="mm2018/one-three_fits.png"> </img>
+                        <p>
+                            $S = k_B \sum_{-,+} p_{i}(B_\parallel, T) \ln{ p_{i}(B_\parallel,T) }$
+                            <br><br>
+                            &ensp;with&ensp;$p_{\pm}(B_\parallel, T) = (1+ e^{\mp \frac{g\mu_B B_{\parallel}}{k_B T}})^{-1}$
+                        </p>
+                    </section>
+                    <section id='first-third-transport'>
+                        <h3> bias spectroscopy of 0$\rightarrow$1 transition </h3>
+                        <img style="width: 70%;" src="mm2018/transport-spec_01.png"> </img>
+                    </section>
                 </section>
 
                 <section id="second-electron">
-                    <h3> tunable degeneracy </h3>
-                    <img style="width: 60%; margin-bottom: 0.1em" src="mm2018/two_fit.png"> </img>
-                    <p>
-                        $S = k_B \sum_{-,+,\mathcal{S},\mathcal{T_+}} p_{i}(B_\parallel, T) \ln{ p_{i}(B_\parallel,T) }$
-                        <br><br>
-                        &ensp;with&ensp;$p_{\mathcal{S}/\mathcal{T_+}}(B_\parallel, T) = (1+ e^{\mp \frac{g\mu_B B_\parallel - \Delta_{ST}}{k_B T}})^{-1}$
-                    </p>
+                    <section id='second-fits'>
+                        <h3> changing the ground state </h3>
+                        <img style="width: 60%; margin-bottom: 0.1em" src="mm2018/two_fit.png"> </img>
+                        <p>
+                            $S = k_B \sum_{-,+,\mathcal{S},\mathcal{T_+}} p_{i}(B_\parallel, T) \ln{ p_{i}(B_\parallel,T) }$
+                            <br><br>
+                            &ensp;with&ensp;$p_{\mathcal{S}/\mathcal{T_+}}(B_\parallel, T) = (1+ e^{\mp \frac{g\mu_B B_\parallel - \Delta_{ST}}{k_B T}})^{-1}$
+                        </p>
+                    </section>
+                    <section id='second-transport'>
+                        <h3> bias spectroscopy of 1$\rightarrow$2 transition </h3>
+                        <img style="width: 70%;" src="mm2018/transport-spec_12.png"> </img>
+                    </section>
                 </section>
 
                 <section id="conclusions" style="text-align: left;">
@@ -332,7 +388,7 @@
                     <h3> <strong> Conclusions: </strong> </h3>
 
                     <ul>
-                        <li> Developed an entropy measurement technique applicable to many mesoscopic systems </li>
+                        <li> Developed a thermodynamic measurement applicable to many mesoscopic systems </li>
                         <li> Measured entropy of a few-electron system to 5% accuracy </li>
                         <li> Confirmed results by investigating magnetic field behavior </li>
                     </ul>
