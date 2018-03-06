@@ -24,26 +24,28 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
+
                 <section id="title">
 					<h2> Direct Entropy Measurement in a Mesoscopic Quantum System </h2>
                     <img src="figures/device_edited.png"> </img>
-					<p>
-						<small>
-                            <span class="fragment highlight-teal"> Nikolaus Hartman </span>,
+					<p style="font-style: italic; font-size: 0.8em">
+						<!-- <small> -->
+                            <span data-fragment-index=1 class="fragment highlight-teal"> Nikolaus Hartman </span>,
                             Christian Olsen, Silvia Folk, Mohammad Samani,
                             Saeed Fallahi, Geoffrey C. Gardner,
-                            <span class="fragment highlight-teal"> Michael Manfra </span>,
-                            and <span class="fragment highlight-teal"> Joshua Folk </span> <br>
-                        </small>
+                            <span data-fragment-index=3 class="fragment highlight-teal"> Michael Manfra </span>,
+                            and <span data-fragment-index=2 class="fragment highlight-teal"> Joshua Folk </span> <br>
+                        <!-- </small> -->
 					</p>
                     <p>
-                        APS March Meeting <br>
-                        <span id="today"> </span>
+                        APS March Meeting -- Session H15<br>
+                        <!-- <span id="today"> </span> -->
+                        March 5th, 2018
                     </p>
-                    <script>
+                    <!-- <script>
                         var d = new Date().toDateString();
                         document.getElementById("today").innerHTML = d;
-                    </script>
+                    </script> -->
 				</section>
 
                 <section id="why-entropy">
@@ -73,7 +75,7 @@
                 </section>
 
                 <section id="idea-2">
-                    <h3> A few proposed entropy measurements: </h3>
+                    <h3> Proposed entropy measurements (con't): </h3>
                     <ol start="2">
                         <li>
                             Non-trivial entanglement structure in 2-channel Kondo model.
@@ -89,12 +91,12 @@
                 </section>
 
                 <section id="idea-3">
-                    <h3> A few proposed entropy measurements: </h3>
+                    <h3> Proposed entropy measurements (con't): </h3>
                     <ol start="3">
                         <li>
                             Moore-Read quasiparticles in $\nu = 5/2$ FQH state.
                             <ul>
-                                <li style="font-style: italic;"> Discontinuity in $S$ across $\nu=5/2$ </li>
+                                <li style="font-style: italic;"> Discontinuity in $\partial S/ \partial N_{qp}$ </li>
                                 <li style="font-size: 0.8em; font-style: italic;">
                                     N. R. Cooper and A. Stern, Physical Review Letters 102, 176807 (2009).
                                 </li>
@@ -106,9 +108,9 @@
                 <section id="whats-hard-about-this">
                     <h3> What is difficult here </h3>
                     <div style="text-align: left">
-                        <p> Entropy measurements are common in bulk and single crystal samples (mm scale)
+                        <p> Entropy measurements are common in bulk crystals (mm scale)
                             through <strong> heat capacity </strong> or <strong> magnetization </strong> measurements </p>
-                        <p> Mesoscopic system heat capacity and magnetic moments too small -- even in 2DEG Hall devices </p>
+                        <p> Mesoscopic system heat capacity and magnetic moments are <strong> too small </strong> -- even in 2DEG Hall devices </p>
                     <div>
                     <p style="text-align: right" class="fragment"> ... Closer look at $\nu=5/2$ proposals for solution </p>
                 </section>
@@ -118,13 +120,15 @@
 
                     <img style="height: 5em" src="figures/stern_cooper_screenshot.png"> </img>
 
-                    <p class="fragment">
-                        $\left(\frac{\partial \mu}{\partial T}\right)_{p,n}
-                            = -\left(\frac{\partial s}{\partial n}\right)_{p,T}$
-                    </p>
-                    <p class="fragment">
-                        We know how to control and measure $\delta \mu$ and $\delta T$!
-                    </p>
+                    <span class="fragment">
+                        <p>
+                            $\left(\frac{\partial \mu}{\partial T}\right)_{p,n}
+                                = -\left(\frac{\partial s}{\partial n}\right)_{p,T}$
+                        </p>
+                        <p>
+                            We know how to control and measure $\delta \mu$ and $\delta T$!
+                        </p>
+                    </span>
                 </section>
 
                 <section id="mohammad">
@@ -134,10 +138,13 @@
                         <li> Measure $\delta \mu$ using an SET capacitively-coupled to
                             the 2DEG while oscillating $\delta T$ through Joule heater </li>
                     </ul>
-                    <p class="fragment">
-                        <strong> Negative result: </strong>
-                        No evidence of quasiparticle entropy in $\nu = 5/2$ state.
-                    </p>
+                    <span class="fragment">
+                        <p>
+                            <strong> Negative result: </strong>
+                            No evidence of quasiparticle entropy in $\nu = 5/2$ state.
+                        </p>
+                        <small> <em> Work on similar device </em>: Venkatachalam, et al., Nature 469, 2011 </small>
+                    </span>
                 </section>
 
                 <!-- <section id="mohammad-2">
@@ -175,7 +182,6 @@
                     </div>
                 </section> -->
 
-                <!-- different title fewer words -->
                 <section id="ben-shach">
                     <h3> Ben-Shach et al., PRL 110, 2013</h3>
                     <img style="width: 50%" src="figures/ben-shach_fig1.png"> </img>
@@ -230,10 +236,12 @@
 
                     <div style="display:flex; align-items: center;">
                         <div style="text-align: left; width: 48%; margin-left: auto; margin-right: 2%; font-size: 0.8em">
-                            <p> <strong>At $V_{mid}$: </strong><br> $P(N-1) = P(N)$ <em>or</em> $\Gamma_{in} = \Gamma_{out}$ </p>
+                            <p> <strong>At $V_{mid}$: </strong><br> $P(N-1) = P(N)$ <br>
+                                $\Gamma_{in} = \Gamma_{out}$
+                            </p>
                             <p> <strong> Two things happen when $T$ changes: </strong></p>
                             <ol>
-                                <li> Transition width broadens: </li>
+                                <li> Transition width broadens </li>
                                 <li> $V_{mid}$ shifts if $\Delta S_{N-1 \rightarrow N} \neq 0$ </li>
                             </ol>
                         </div>
@@ -243,7 +251,7 @@
                     </div>
 
                     <p style="margin-top: 1em" class="fragment">
-                        $G_{sens}(V_p,T) \propto \tanh\left(\frac{\alpha (V_p - V_{mid}(T))}{2 k_B T}\right)$
+                        $G_{sens}(V_p,T) \sim \tanh\left(\frac{\alpha (V_p - V_{mid}(T))}{2 k_B T}\right)$
                     </p>
 
                 </section>
@@ -266,13 +274,13 @@
 
                 <section id="fitting-dS">
                     <h3> Quantitative Measurement </h3>
-                    <p style="font-size: 0.8em">
-                        Oscillate $\delta T$ with AC current through QPC heater + <br>
-                        measure $\delta G_{sens}$ with lock-in amplifier
-                    </p>
-                    <img class="fragment" style="height: 7em" src="figures/single_dg_no-fit.png"> </img>
+                    <ul style="font-size: 1em;">
+                        <li>Oscillate $\delta T$ with AC I<sub>heat</sub> </li>
+                        <li>Measure $\delta G_{sens}$ with lock-in amplifier </li>
+                    </ul>
+                    <img class="fragment" style="height: 8em" src="figures/single_dg_no-fit.png"> </img>
                     <p class="fragment" style="font-size: 0.8em; text-align: left">
-                        $\delta G_{sens}(V_p, T) \propto -\delta T
+                        $\delta G_{sens}(V_p, T) \sim -\delta T
                         \left[ \frac{\alpha(V_p - V_{mid}(T))}{2 k_B T} - \frac{1}{2}\color{#13DAEC}{\frac{\Delta S}{k_B}} \right]
                         \cosh^{-2}\left(\frac{\alpha(V_p - V_{mid}(T))}{2 k_B T}\right)$
                     </p>
@@ -293,31 +301,31 @@
 
                 <section id="we-did-it">
                     <h2> single particle entropy! </h2>
-                    <iframe src="https://giphy.com/embed/BNKGM6uOgPhp6"
-                        width="720" height="352" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-                </section>
+                    <!-- <iframe src="https://giphy.com/embed/BNKGM6uOgPhp6"
+                        width="720" height="352" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> -->
 
-                <section id="too-easy" style="text-align: left;">
-                    <h3> why this worked </h3>
-                    <ol style="margin-left: 8%">
-                        <li> $\delta T$ oscillating fast enough to overcome $1/f$-noise </li>
-                        <li> Ability to measure charge transition w/o disturbing system </li>
-                        <li> Thermally broadened charge transition </li>
-                        <li> $k_B \delta T$ smaller than ground and excited state splitting </li>
-                    </ol>
-                    <span class="fragment">
-                        <h3> Not required </h3>
-                        <ol style="margin-left: 8%">
-                            <li> The exact value of $\delta T$ </li>
-                            <li> Knowing the plunger gate lever arm </li>
+                    <div style="text-align: left;" class="fragment">
+                        <h3> why this worked </h3>
+                        <ol style="margin-left: 8%; margin-bottom: 1em;">
+                            <li> Fast $\delta T$ oscillations </li>
+                            <li> Non-invasive charge sensing </li>
+                            <li> Thermally broadened transition </li>
+                            <li> $k_B \delta T < \Delta$ </li>
                         </ol>
-                    </span>
+                        <span class="fragment" style="margin-top: 1em;">
+                            <h3> Not required </h3>
+                            <ol style="margin-left: 8%">
+                                <li> Exact $\delta T$ </li>
+                                <li> Gate voltage to energy conversion, $\alpha$ </li>
+                            </ol>
+                        </span>
+                    </div>
                 </section>
 
                 <section id="dT-dependence">
                     <section id="dS-vs-dT">
                         <h3> $\Delta S$ independent of $\delta T$ </h3>
-                        <img style="height: 7em;" src="figures/dS-vs-dT.png"> </img>
+                        <img style="width: 90%;" src="figures/dS-vs-dT.png"> </img>
                     </section>
                     <section id="param-calibration">
                         <h3> determining $\alpha$ and $\delta T$ </h3>
@@ -333,46 +341,43 @@
 
                 <section id="really">
                     <h2> Is the measured parameter really <strong> entropy </strong>? </h2>
-                    <p>
-                        Find out by tuning the spin degeneracy <br> with in-plane magnetic field.
-                    </p>
                 </section>
 
                 <section id="first-third">
                     <h3> spin-0 to spin-1/2 transitions with in-plane field </h3>
-                    <img style="width: 60%; margin-bottom: 0.1em" src="figures/one-three_no-fits.png"> </img>
-                    <img style="width: 60%; margin-top: 0.1dm" src="figures/dG-cuts_01.png"> </img>
+                    <img style="width: 65%; margin-bottom: 0.1em" src="figures/one-three_no-fits.png"> </img>
+                    <img style="width: 65%; margin-top: 0.1dm" src="figures/dG-cuts_01.png"> </img>
                 </section>
 
                 <section id="first-third-fits-bias">
                     <section id='first-third-fits'>
                         <h3> spin-0 to spin-1/2 transitions with in-plane field </h3>
-                        <img style="width: 60%; margin-bottom: 0.1em" src="figures/one-three_fits.png"> </img>
+                        <img style="width: 65%; margin-bottom: 0.1em" src="figures/one-three_fits.png"> </img>
                         <p>
                             $S = k_B \sum_{-,+} p_{i}(B_\parallel, T) \ln{ p_{i}(B_\parallel,T) }$
-                            <br><br>
+                            <br>
                             &ensp;with&ensp;$p_{\pm}(B_\parallel, T) = (1+ e^{\mp \frac{g\mu_B B_{\parallel}}{k_B T}})^{-1}$
                         </p>
                     </section>
                     <section id='first-third-transport'>
                         <h3> bias spectroscopy of 0$\rightarrow$1 transition </h3>
-                        <img style="width: 70%;" src="figures/transport-spec_01.png"> </img>
+                        <img style="width: 90%;" src="figures/transport-spec_01.png"> </img>
                     </section>
                 </section>
 
                 <section id="second-electron">
                     <section id='second-fits'>
                         <h3> changing the ground state </h3>
-                        <img style="width: 60%; margin-bottom: 0.1em" src="figures/two_fit.png"> </img>
+                        <img style="width: 70%; margin-bottom: 0.1em" src="figures/two_fit.png"> </img>
                         <p>
                             $S = k_B \sum_{-,+,\mathcal{S},\mathcal{T_+}} p_{i}(B_\parallel, T) \ln{ p_{i}(B_\parallel,T) }$
-                            <br><br>
+                            <br>
                             &ensp;with&ensp;$p_{\mathcal{S}/\mathcal{T_+}}(B_\parallel, T) = (1+ e^{\mp \frac{g\mu_B B_\parallel - \Delta_{ST}}{k_B T}})^{-1}$
                         </p>
                     </section>
                     <section id='second-transport'>
                         <h3> bias spectroscopy of 1$\rightarrow$2 transition </h3>
-                        <img style="width: 70%;" src="figures/transport-spec_12.png"> </img>
+                        <img style="width: 65%;" src="figures/transport-spec_12.png"> </img>
                     </section>
                 </section>
 
