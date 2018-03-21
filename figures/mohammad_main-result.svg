@@ -4,61 +4,47 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="317.778px" height="148.583px" viewBox="0 0 317.778 148.583" enable-background="new 0 0 317.778 148.583"
 	 xml:space="preserve">
-<rect fill="#FFFFFF" width="317.778" height="148.583"/>
-<rect x="37.568" y="11.628" fill="#FFFFFF" width="100.693" height="104.115"/>
-<g>
-	<defs>
-		<rect id="SVGID_1_" x="37.568" y="11.628" width="100.693" height="104.115"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_1_"  overflow="visible"/>
-	</clipPath>
-	<g transform="matrix(1 0 0 1 -3.814697e-06 0)" clip-path="url(#SVGID_2_)">
-		
-			<image overflow="visible" width="101" height="51" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
-EAMCAwYAAAOAAAAFZwAACPD/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+<image overflow="visible" enable-background="new    " width="102" height="105" xlink:href="data:image/jpeg;base64,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
-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
-g6PwXPp/uiv/2Q==" transform="matrix(0.997 0 0 2.0415 37.5679 11.6284)">
-		</image>
-	</g>
-</g>
+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" transform="matrix(0.9873 0 0 0.9916 37.5679 11.6279)">
+</image>
 <polyline fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-miterlimit="10" points="37.582,73.92 38.588,73.92 
 	39.595,73.92 40.603,73.92 41.609,73.92 42.616,73.92 43.623,73.92 44.63,73.92 45.637,73.92 46.644,73.92 47.651,73.92 
 	48.658,73.92 49.665,73.92 50.672,73.92 51.679,73.92 52.686,73.92 53.692,73.92 54.699,73.92 55.707,73.92 56.713,73.92 
@@ -72,7 +58,7 @@ g6PwXPp/uiv/2Q==" transform="matrix(0.997 0 0 2.0415 37.5679 11.6284)">
 	122.164,73.92 123.171,73.92 124.178,73.92 125.185,73.92 126.192,73.92 127.199,73.92 128.206,73.92 129.212,73.92 130.22,73.92 
 	131.226,73.92 132.234,73.92 133.24,73.92 134.248,73.92 135.254,73.92 136.261,73.92 137.268,73.92 138.275,73.92 "/>
 <rect x="37.568" y="11.628" fill="none" width="100.693" height="104.115"/>
-<polyline fill="none" stroke="#FF0000" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="3,3" points="
+<polyline fill="none" stroke="#00FFFF" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="3,3" points="
 	37.568,94.92 38.575,94.92 39.582,94.92 40.589,94.92 41.596,94.92 42.603,94.92 43.609,94.92 44.616,94.92 45.624,94.92 
 	46.63,94.92 47.637,94.92 48.644,94.92 49.651,94.92 50.658,94.92 51.665,94.92 52.672,94.92 53.679,94.92 54.686,94.92 
 	55.693,94.92 56.7,94.92 57.707,94.92 58.713,94.92 59.72,94.92 60.728,94.92 61.734,94.92 62.741,94.92 63.748,94.92 64.755,94.92 
@@ -86,156 +72,104 @@ g6PwXPp/uiv/2Q==" transform="matrix(0.997 0 0 2.0415 37.5679 11.6284)">
 	129.199,94.92 130.206,94.92 131.213,94.92 132.22,94.92 133.227,94.92 134.234,94.92 135.241,94.92 136.248,94.92 137.254,94.92 
 	138.261,94.92 "/>
 <rect x="37.568" y="11.628" fill="none" width="100.693" height="104.115"/>
-<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="37.568" y1="115.744" x2="138.261" y2="115.744"/>
-<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="37.568" y1="11.628" x2="138.261" y2="11.628"/>
-<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="138.261" y1="115.744" x2="138.261" y2="11.628"/>
-<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="37.568" y1="115.744" x2="37.568" y2="11.628"/>
-<line x1="37.568" y1="115.744" x2="37.568" y2="110.744"/>
-<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="37.568" y1="115.744" x2="37.568" y2="110.744"/>
-<text transform="matrix(1 0 0 1 35.2837 127.6626)" font-family="'CMR17'" font-size="9.9626">0</text>
-<line x1="71.132" y1="115.744" x2="71.132" y2="110.744"/>
-<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="71.132" y1="115.744" x2="71.132" y2="110.744"/>
-<text transform="matrix(1 0 0 1 64.2788 127.6626)" font-family="'CMR17'" font-size="9.9626">100</text>
-<line x1="104.697" y1="115.744" x2="104.697" y2="110.744"/>
-<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="104.697" y1="115.744" x2="104.697" y2="110.744"/>
-<text transform="matrix(1 0 0 1 97.8433 127.6626)" font-family="'CMR17'" font-size="9.9626">200</text>
-<line x1="138.261" y1="115.744" x2="138.261" y2="110.744"/>
-<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="138.261" y1="115.744" x2="138.261" y2="110.744"/>
-<text transform="matrix(1 0 0 1 74.1782 138.2935)" font-family="'CMR17'" font-size="8.9664">V</text>
-<text transform="matrix(1 0 0 1 80.395 139.6382)" font-family="'CMR12'" font-size="6.2764">g</text>
-<text transform="matrix(1 0 0 1 83.8022 138.2935)" font-family="'CMR17'" font-size="8.9664">(</text>
-<text transform="matrix(1 0 0 1 86.9771 138.2935)" font-family="'CMMI12'" font-size="8.9664">µ</text>
-<text transform="matrix(1 0 0 1 92.2593 138.2935)" font-family="'CMR17'" font-size="8.9664">V)</text>
-<line x1="37.568" y1="115.744" x2="42.568" y2="115.744"/>
-<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="37.568" y1="115.744" x2="42.568" y2="115.744"/>
-<text transform="matrix(1 0 0 1 18.6509 118.2339)" font-family="'CMR17'" font-size="9.9626">5</text>
-<text transform="matrix(1 0 0 1 23.2202 118.2339)" font-family="'CMMI12'" font-size="9.9626">.</text>
-<text transform="matrix(1 0 0 1 25.9302 118.2339)" font-family="'CMR17'" font-size="9.9626">08</text>
-<line x1="37.568" y1="74.098" x2="42.568" y2="74.098"/>
-<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="37.568" y1="74.098" x2="42.568" y2="74.098"/>
-<text transform="matrix(1 0 0 1 18.6509 76.5884)" font-family="'CMR17'" font-size="9.9626">5</text>
-<text transform="matrix(1 0 0 1 23.2202 76.5884)" font-family="'CMMI12'" font-size="9.9626">.</text>
-<text transform="matrix(1 0 0 1 25.9302 76.5884)" font-family="'CMR17'" font-size="9.9626">12</text>
-<line x1="37.568" y1="32.451" x2="42.568" y2="32.451"/>
-<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="37.568" y1="32.451" x2="42.568" y2="32.451"/>
-<text transform="matrix(1 0 0 1 18.6509 34.9414)" font-family="'CMR17'" font-size="9.9626">5</text>
-<text transform="matrix(1 0 0 1 23.2202 34.9414)" font-family="'CMMI12'" font-size="9.9626">.</text>
-<text transform="matrix(1 0 0 1 25.9302 34.9414)" font-family="'CMR17'" font-size="9.9626">16</text>
-<text transform="matrix(0 -1 1 0 13.917 98.1743)"><tspan x="0" y="0" font-family="'CMR17'" font-size="8.9664">Magneti</tspan><tspan x="29.453" y="0" font-family="'CMR17'" font-size="8.9664" letter-spacing="2">c</tspan><tspan x="35.792" y="0" font-family="'CMR17'" font-size="8.9664">Fiel</tspan><tspan x="49.294" y="0" font-family="'CMR17'" font-size="8.9664" letter-spacing="2">d</tspan><tspan x="56.566" y="0" font-family="'CMR17'" font-size="8.9664">(T)</tspan></text>
-<rect x="176.167" y="11.628" fill="#FFFFFF" width="107.528" height="104.115"/>
-<g>
-	<defs>
-		<rect id="SVGID_3_" x="176.167" y="11.628" width="107.528" height="104.115"/>
-	</defs>
-	<clipPath id="SVGID_4_">
-		<use xlink:href="#SVGID_3_"  overflow="visible"/>
-	</clipPath>
-	<polygon clip-path="url(#SVGID_4_)" fill="#FF0000" points="181.544,55.01 185.128,52.841 185.128,55.009 195.881,55.009 
-		195.881,55.01 185.128,55.01 185.128,57.179 	"/>
-	<polygon clip-path="url(#SVGID_4_)" fill="none" stroke="#FF0000" stroke-width="0.5" stroke-miterlimit="10" points="
-		181.544,55.01 185.128,52.841 185.128,55.009 195.881,55.009 195.881,55.01 185.128,55.01 185.128,57.179 	"/>
-</g>
-<g>
-	<defs>
-		<rect id="SVGID_5_" x="176.167" y="11.628" width="107.528" height="104.115"/>
-	</defs>
-	<clipPath id="SVGID_6_">
-		<use xlink:href="#SVGID_5_"  overflow="visible"/>
-	</clipPath>
-	
-		<polyline clip-path="url(#SVGID_6_)" fill="none" stroke="#FF0000" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" points="
-		176.167,104.112 177.243,104.112 178.319,87.563 179.394,97.493 180.469,97.493 181.544,97.493 182.62,97.493 183.695,94.182 
-		184.77,90.874 185.845,97.493 186.92,94.182 187.996,97.493 189.071,97.493 190.147,84.253 191.222,84.253 192.297,80.944 
-		193.373,77.634 194.448,77.634 195.523,77.634 196.598,71.015 197.673,61.085 198.749,64.395 199.824,47.847 200.899,54.466 
-		201.975,57.776 203.05,64.395 204.125,51.156 205.201,54.466 206.276,61.085 207.351,61.085 208.426,51.156 209.501,74.325 
-		210.577,61.085 211.652,61.085 212.727,80.944 213.802,80.944 214.878,94.182 215.954,87.563 217.029,87.563 218.104,90.874 
-		219.179,84.253 220.254,87.563 221.33,90.874 222.405,84.253 223.48,90.874 224.555,80.944 225.63,77.634 226.707,61.085 
-		227.782,57.776 228.857,57.776 229.932,37.917 231.007,41.227 232.083,34.607 233.158,47.847 234.233,31.297 235.308,37.917 
-		236.383,24.678 237.458,31.297 238.535,31.297 239.61,34.607 240.685,37.917 241.76,41.227 242.835,54.466 243.911,51.156 
-		244.986,51.156 246.061,61.085 247.136,61.085 248.211,61.085 249.287,74.325 250.363,84.253 251.438,80.944 252.513,84.253 
-		253.588,84.253 254.664,90.874 255.739,94.182 256.814,94.182 257.889,90.874 258.964,90.874 260.04,97.493 261.115,94.182 
-		262.191,97.493 263.266,104.112 264.341,90.874 265.417,87.563 266.492,87.563 267.567,87.563 268.642,77.634 269.717,74.325 
-		270.792,74.325 271.868,74.325 272.943,64.395 274.019,71.015 275.094,54.466 276.169,61.085 277.245,51.156 278.32,54.466 
-		279.395,61.085 280.47,54.466 281.545,47.847 282.621,61.085 283.696,54.466 	"/>
-</g>
-<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="176.167" y1="115.744" x2="283.696" y2="115.744"/>
-<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="283.696" y1="115.744" x2="283.696" y2="11.628"/>
-<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="176.167" y1="115.744" x2="176.167" y2="11.628"/>
-<line x1="176.167" y1="115.744" x2="176.167" y2="110.744"/>
-<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="176.167" y1="115.744" x2="176.167" y2="110.744"/>
-<text transform="matrix(1 0 0 1 173.8833 127.6626)" font-family="'CMR17'" font-size="9.9626">0</text>
-<line x1="212.01" y1="115.744" x2="212.01" y2="110.744"/>
-<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="212.01" y1="115.744" x2="212.01" y2="110.744"/>
-<text transform="matrix(1 0 0 1 205.1567 127.6626)" font-family="'CMR17'" font-size="9.9626">100</text>
-<line x1="247.853" y1="115.744" x2="247.853" y2="110.744"/>
-<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="247.853" y1="115.744" x2="247.853" y2="110.744"/>
-<text transform="matrix(1 0 0 1 240.9995 127.6626)" font-family="'CMR17'" font-size="9.9626">200</text>
-<line x1="283.696" y1="115.744" x2="283.696" y2="110.744"/>
-<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="283.696" y1="115.744" x2="283.696" y2="110.744"/>
-<text transform="matrix(1 0 0 1 216.1958 138.2935)" font-family="'CMR17'" font-size="8.9664">V</text>
-<text transform="matrix(1 0 0 1 222.4116 139.6382)" font-family="'CMR12'" font-size="6.2764">g</text>
-<text transform="matrix(1 0 0 1 225.8188 138.2935)" font-family="'CMR17'" font-size="8.9664">(</text>
-<text transform="matrix(1 0 0 1 228.9946 138.2935)" font-family="'CMMI12'" font-size="8.9664">µ</text>
-<text transform="matrix(1 0 0 1 234.2769 138.2935)" font-family="'CMR17'" font-size="8.9664">V)</text>
-<line x1="176.167" y1="115.744" x2="181.167" y2="115.744"/>
-<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="176.167" y1="115.744" x2="181.167" y2="115.744"/>
-<line x1="176.167" y1="98.391" x2="181.167" y2="98.391"/>
-<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="176.167" y1="98.391" x2="181.167" y2="98.391"/>
-<text transform="matrix(1 0 0 1 164.5298 100.8813)" font-family="'CMR17'" font-size="9.9626">60</text>
-<line x1="176.167" y1="63.686" x2="181.167" y2="63.686"/>
-<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="176.167" y1="63.686" x2="181.167" y2="63.686"/>
-<text transform="matrix(1 0 0 1 159.9604 66.1763)" font-family="'CMR17'" font-size="9.9626">100</text>
-<line x1="176.167" y1="28.981" x2="181.167" y2="28.981"/>
-<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="176.167" y1="28.981" x2="181.167" y2="28.981"/>
-<text transform="matrix(1 0 0 1 159.9604 31.4712)" font-family="'CMR17'" font-size="9.9626">140</text>
-<line x1="176.167" y1="11.628" x2="181.167" y2="11.628"/>
-<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="176.167" y1="11.628" x2="181.167" y2="11.628"/>
-<text transform="matrix(0 -1 1 0 155.6255 85.0718)" font-family="'CMR17'" font-size="8.9664">∆G(pA</text>
-<text transform="matrix(0 -1 1 0 155.626 57.6646)" font-family="'CMMI12'" font-size="8.9664">/</text>
-<text transform="matrix(0 -1 1 0 155.625 53.2749)" font-family="'CMR17'" font-size="8.9664">V)</text>
-<polyline fill="none" stroke="#008000" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" points="
-	176.167,96.608 177.243,106.85 178.319,107.531 179.394,106.098 180.469,105.346 181.544,104.042 182.62,104.467 183.695,106.055 
-	184.77,106.737 185.845,107.346 186.92,105.942 187.996,102.637 189.071,101.559 190.147,101.516 191.222,102.594 192.297,102.467 
-	193.373,100.807 194.448,98.651 195.523,93.602 196.598,90.807 197.673,86.368 198.749,82.651 199.824,85.403 200.899,81.701 
-	201.975,77.842 203.05,70.282 204.125,66.211 205.201,63.104 206.276,59.984 207.351,55.119 208.426,50.31 209.501,45.941 
-	210.577,42.919 211.652,38.962 212.727,34.919 213.802,31.019 214.878,26.863 215.954,23.458 217.029,22.763 218.104,21.586 
-	219.179,23.983 220.254,25.118 221.33,26.494 222.405,25.402 223.48,25.033 224.555,29.912 225.63,33.501 226.707,37.288 
-	227.782,43.217 228.857,47.402 229.932,50.352 231.007,55.671 232.083,60.324 233.158,63.729 234.233,64.14 235.308,69.261 
-	236.383,71.516 237.458,76.353 238.535,82.523 239.61,85.985 240.685,88.141 241.76,88.892 242.835,90.155 243.911,92.198 
-	244.986,96.296 246.061,99.644 247.136,101.857 248.211,102.95 249.287,103.616 250.363,102.92 251.438,102.963 252.513,103.163 
-	253.588,102.992 254.664,103.303 255.739,104.85 256.814,105.233 257.889,107.006 258.964,107.957 260.04,107.346 261.115,105.247 
-	262.191,104.268 263.266,102.013 264.341,102.042 265.417,101.729 266.492,102.211 267.567,100.481 268.642,100.624 269.717,98.566 
-	270.792,94.438 271.868,90.864 272.943,87.459 274.019,86.14 275.094,83.942 276.169,82.764 277.245,77.09 278.32,72.183 
-	279.395,67.388 280.47,61.487 281.545,57.062 282.621,53.884 283.696,53.487 "/>
-<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="176.167" y1="115.744" x2="283.696" y2="115.744"/>
-<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="283.696" y1="115.744" x2="283.696" y2="11.628"/>
-<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="176.167" y1="115.744" x2="176.167" y2="11.628"/>
-<line x1="283.696" y1="115.744" x2="278.696" y2="115.744"/>
-<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="283.696" y1="115.744" x2="278.696" y2="115.744"/>
-<text transform="matrix(1 0 0 1 286.1958 118.2339)" font-family="'CMR17'" font-size="9.9626">0</text>
-<text transform="matrix(1 0 0 1 290.7651 118.2339)" font-family="'CMMI12'" font-size="9.9626">.</text>
-<text transform="matrix(1 0 0 1 293.4751 118.2339)" font-family="'CMR17'" font-size="9.9626">0</text>
-<line x1="283.696" y1="85.997" x2="278.696" y2="85.997"/>
-<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="283.696" y1="85.997" x2="278.696" y2="85.997"/>
-<text transform="matrix(1 0 0 1 286.1958 88.4868)" font-family="'CMR17'" font-size="9.9626">0</text>
-<text transform="matrix(1 0 0 1 290.7651 88.4868)" font-family="'CMMI12'" font-size="9.9626">.</text>
-<text transform="matrix(1 0 0 1 293.4751 88.4868)" font-family="'CMR17'" font-size="9.9626">4</text>
-<line x1="283.696" y1="56.249" x2="278.696" y2="56.249"/>
-<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="283.696" y1="56.249" x2="278.696" y2="56.249"/>
-<text transform="matrix(1 0 0 1 286.1958 58.7393)" font-family="'CMR17'" font-size="9.9626">0</text>
-<text transform="matrix(1 0 0 1 290.7651 58.7393)" font-family="'CMMI12'" font-size="9.9626">.</text>
-<text transform="matrix(1 0 0 1 293.4751 58.7393)" font-family="'CMR17'" font-size="9.9626">8</text>
-<line x1="283.696" y1="26.502" x2="278.696" y2="26.502"/>
-<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="283.696" y1="26.502" x2="278.696" y2="26.502"/>
-<text transform="matrix(1 0 0 1 286.1958 28.9922)" font-family="'CMR17'" font-size="9.9626">1</text>
-<text transform="matrix(1 0 0 1 290.7651 28.9922)" font-family="'CMMI12'" font-size="9.9626">.</text>
-<text transform="matrix(1 0 0 1 293.4751 28.9922)" font-family="'CMR17'" font-size="9.9626">2</text>
-<line x1="283.696" y1="11.628" x2="278.696" y2="11.628"/>
-<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="283.696" y1="11.628" x2="179.372" y2="11.628"/>
-<text transform="matrix(0 1 -1 0 303.854 46.2021)" font-family="'CMR17'" font-size="8.9664">G(</text>
-<text transform="matrix(0 1 -1 0 303.853 55.8892)" font-family="'CMMI12'" font-size="8.9664">µ</text>
-<text transform="matrix(0 1 -1 0 303.853 61.1714)" font-family="'CMR17'" font-size="8.9664">A</text>
-<text transform="matrix(0 1 -1 0 303.853 67.3882)" font-family="'CMMI12'" font-size="8.9664">/</text>
-<text transform="matrix(0 1 -1 0 303.853 71.7778)" font-family="'CMR17'" font-size="8.9664">V)</text>
-<text transform="matrix(1 0 0 1 84.4302 68.3892)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" font-family="'CMUSerif-RomanSlanted'" font-size="12">ν=5/2</text>
+<line fill="none" stroke="#FFFFFF" stroke-linecap="square" stroke-miterlimit="10" x1="37.568" y1="115.745" x2="138.261" y2="115.745"/>
+<line fill="none" stroke="#FFFFFF" stroke-linecap="square" stroke-miterlimit="10" x1="37.568" y1="11.628" x2="138.261" y2="11.628"/>
+<line fill="none" stroke="#FFFFFF" stroke-linecap="square" stroke-miterlimit="10" x1="138.261" y1="115.745" x2="138.261" y2="11.628"/>
+<line fill="none" stroke="#FFFFFF" stroke-linecap="square" stroke-miterlimit="10" x1="37.568" y1="115.745" x2="37.568" y2="11.628"/>
+<line fill="none" x1="37.568" y1="115.745" x2="37.568" y2="110.745"/>
+<line fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-miterlimit="10" x1="37.568" y1="115.745" x2="37.568" y2="110.745"/>
+<text transform="matrix(1 0 0 1 35.2837 127.6626)" fill="#FFFFFF" font-family="'CMR17'" font-size="9.9626">0</text>
+<line fill="none" x1="71.132" y1="115.745" x2="71.132" y2="110.745"/>
+<line fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-miterlimit="10" x1="71.132" y1="115.745" x2="71.132" y2="110.745"/>
+<text transform="matrix(1 0 0 1 64.2788 127.6626)" fill="#FFFFFF" font-family="'CMR17'" font-size="9.9626">100</text>
+<line fill="none" x1="104.697" y1="115.745" x2="104.697" y2="110.745"/>
+<line fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-miterlimit="10" x1="104.697" y1="115.745" x2="104.697" y2="110.745"/>
+<text transform="matrix(1 0 0 1 97.8433 127.6626)" fill="#FFFFFF" font-family="'CMR17'" font-size="9.9626">200</text>
+<line fill="none" x1="138.261" y1="115.745" x2="138.261" y2="110.745"/>
+<line fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-miterlimit="10" x1="138.261" y1="115.745" x2="138.261" y2="110.745"/>
+<text transform="matrix(1 0 0 1 74.1782 138.2944)" fill="#FFFFFF" font-family="'CMR17'" font-size="8.9664">V</text>
+<text transform="matrix(1 0 0 1 80.395 139.6392)" fill="#FFFFFF" font-family="'CMR12'" font-size="6.2764">g</text>
+<text transform="matrix(1 0 0 1 83.8022 138.2944)" fill="#FFFFFF" font-family="'CMR17'" font-size="8.9664">(</text>
+<text transform="matrix(1 0 0 1 86.9771 138.2944)" fill="#FFFFFF" font-family="'CMMI12'" font-size="8.9664">µ</text>
+<text transform="matrix(1 0 0 1 92.2593 138.2944)" fill="#FFFFFF" font-family="'CMR17'" font-size="8.9664">V)</text>
+<line fill="none" x1="37.568" y1="115.745" x2="42.568" y2="115.745"/>
+<line fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-miterlimit="10" x1="37.568" y1="115.745" x2="42.568" y2="115.745"/>
+<text transform="matrix(1 0 0 1 18.6509 118.2349)" fill="#FFFFFF" font-family="'CMR17'" font-size="9.9626">5</text>
+<text transform="matrix(1 0 0 1 23.2202 118.2349)" fill="#FFFFFF" font-family="'CMMI12'" font-size="9.9626">.</text>
+<text transform="matrix(1 0 0 1 25.9302 118.2349)" fill="#FFFFFF" font-family="'CMR17'" font-size="9.9626">08</text>
+<line fill="none" x1="37.568" y1="74.098" x2="42.568" y2="74.098"/>
+<line fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-miterlimit="10" x1="37.568" y1="74.098" x2="42.568" y2="74.098"/>
+<text transform="matrix(1 0 0 1 18.6509 76.5884)" fill="#FFFFFF" font-family="'CMR17'" font-size="9.9626">5</text>
+<text transform="matrix(1 0 0 1 23.2202 76.5884)" fill="#FFFFFF" font-family="'CMMI12'" font-size="9.9626">.</text>
+<text transform="matrix(1 0 0 1 25.9302 76.5884)" fill="#FFFFFF" font-family="'CMR17'" font-size="9.9626">12</text>
+<line fill="none" x1="37.568" y1="32.451" x2="42.568" y2="32.451"/>
+<line fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-miterlimit="10" x1="37.568" y1="32.451" x2="42.568" y2="32.451"/>
+<text transform="matrix(1 0 0 1 18.6509 34.9419)" fill="#FFFFFF" font-family="'CMR17'" font-size="9.9626">5</text>
+<text transform="matrix(1 0 0 1 23.2202 34.9419)" fill="#FFFFFF" font-family="'CMMI12'" font-size="9.9626">.</text>
+<text transform="matrix(1 0 0 1 25.9302 34.9419)" fill="#FFFFFF" font-family="'CMR17'" font-size="9.9626">16</text>
+<text transform="matrix(0 -1 1 0 13.917 98.1743)" fill="#FFFFFF" font-family="'CMR17'" font-size="8.9664">Magneti</text>
+<text transform="matrix(0 -1 1 0 13.917 68.7212)" fill="#FFFFFF" font-family="'CMR17'" font-size="8.9664" letter-spacing="1">c</text>
+<text transform="matrix(0 -1 1 0 13.917 62.3813)" fill="#FFFFFF" font-family="'CMR17'" font-size="8.9664">Fiel</text>
+<text transform="matrix(0 -1 1 0 13.917 48.8794)" fill="#FFFFFF" font-family="'CMR17'" font-size="8.9664" letter-spacing="1">d</text>
+<text transform="matrix(0 -1 1 0 13.917 41.6069)" fill="#FFFFFF" font-family="'CMR17'" font-size="8.9664">(T)</text>
+<polyline fill="none" stroke="#00FFFF" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" points="
+	176.167,104.112 177.243,104.112 178.319,87.563 179.394,97.493 180.469,97.493 181.543,97.493 182.62,97.493 183.695,94.182 
+	184.77,90.874 185.845,97.493 186.92,94.182 187.997,97.493 189.071,97.493 190.147,84.252 191.222,84.252 192.297,80.944 
+	193.374,77.633 194.448,77.633 195.523,77.633 196.598,71.015 197.672,61.085 198.749,64.395 199.825,47.847 200.899,54.466 
+	201.975,57.776 203.049,64.395 204.125,51.156 205.202,54.466 206.276,61.085 207.351,61.085 208.426,51.156 209.5,74.325 
+	210.577,61.085 211.652,61.085 212.727,80.944 213.801,80.944 214.877,94.182 215.954,87.563 217.029,87.563 218.104,90.874 
+	219.179,84.252 220.254,87.563 221.331,90.874 222.405,84.252 223.48,90.874 224.555,80.944 225.629,77.633 226.708,61.085 
+	227.782,57.776 228.857,57.776 229.932,37.917 231.006,41.227 232.083,34.607 233.159,47.847 234.233,31.297 235.308,37.917 
+	236.383,24.678 237.458,31.297 238.536,31.297 239.61,34.607 240.685,37.917 241.76,41.227 242.834,54.466 243.911,51.156 
+	244.986,51.156 246.061,61.085 247.135,61.085 248.211,61.085 249.288,74.325 250.363,84.252 251.438,80.944 252.513,84.252 
+	253.588,84.252 254.665,90.874 255.739,94.182 256.814,94.182 257.889,90.874 258.963,90.874 260.04,97.493 261.116,94.182 
+	262.191,97.493 263.266,104.112 264.34,90.874 265.417,87.563 266.493,87.563 267.567,87.563 268.642,77.633 269.717,74.325 
+	270.792,74.325 271.868,74.325 272.943,64.395 274.019,71.015 275.094,54.466 276.168,61.085 277.245,51.156 278.32,54.466 
+	279.395,61.085 280.47,54.466 281.545,47.847 282.622,61.085 283.696,54.466 "/>
+<line fill="none" stroke="#FFFFFF" stroke-linecap="square" stroke-miterlimit="10" x1="176.167" y1="115.745" x2="283.696" y2="115.745"/>
+<line fill="none" stroke="#FFFFFF" stroke-linecap="square" stroke-miterlimit="10" x1="283.696" y1="115.745" x2="283.696" y2="11.628"/>
+<line fill="none" stroke="#FFFFFF" stroke-linecap="square" stroke-miterlimit="10" x1="176.167" y1="115.745" x2="176.167" y2="11.628"/>
+<line fill="none" x1="176.167" y1="115.745" x2="176.167" y2="110.745"/>
+<line fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-miterlimit="10" x1="176.167" y1="115.745" x2="176.167" y2="110.745"/>
+<text transform="matrix(1 0 0 1 173.8833 127.6626)" fill="#FFFFFF" font-family="'CMR17'" font-size="9.9626">0</text>
+<line fill="none" x1="212.01" y1="115.745" x2="212.01" y2="110.745"/>
+<line fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-miterlimit="10" x1="212.01" y1="115.745" x2="212.01" y2="110.745"/>
+<text transform="matrix(1 0 0 1 205.1567 127.6626)" fill="#FFFFFF" font-family="'CMR17'" font-size="9.9626">100</text>
+<line fill="none" x1="247.853" y1="115.745" x2="247.853" y2="110.745"/>
+<line fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-miterlimit="10" x1="247.853" y1="115.745" x2="247.853" y2="110.745"/>
+<text transform="matrix(1 0 0 1 240.9995 127.6626)" fill="#FFFFFF" font-family="'CMR17'" font-size="9.9626">200</text>
+<line fill="none" x1="283.696" y1="115.745" x2="283.696" y2="110.745"/>
+<line fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-miterlimit="10" x1="283.696" y1="115.745" x2="283.696" y2="110.745"/>
+<text transform="matrix(1 0 0 1 216.1958 138.2944)" fill="#FFFFFF" font-family="'CMR17'" font-size="8.9664">V</text>
+<text transform="matrix(1 0 0 1 222.4116 139.6392)" fill="#FFFFFF" font-family="'CMR12'" font-size="6.2764">g</text>
+<text transform="matrix(1 0 0 1 225.8188 138.2944)" fill="#FFFFFF" font-family="'CMR17'" font-size="8.9664">(</text>
+<text transform="matrix(1 0 0 1 228.9946 138.2944)" fill="#FFFFFF" font-family="'CMMI12'" font-size="8.9664">µ</text>
+<text transform="matrix(1 0 0 1 234.2769 138.2944)" fill="#FFFFFF" font-family="'CMR17'" font-size="8.9664">V)</text>
+<line fill="none" x1="176.167" y1="115.745" x2="181.167" y2="115.745"/>
+<line fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-miterlimit="10" x1="176.167" y1="115.745" x2="181.167" y2="115.745"/>
+<line fill="none" x1="176.167" y1="98.391" x2="181.167" y2="98.391"/>
+<line fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-miterlimit="10" x1="176.167" y1="98.391" x2="181.167" y2="98.391"/>
+<text transform="matrix(1 0 0 1 164.5298 100.8813)" fill="#FFFFFF" font-family="'CMR17'" font-size="9.9626">60</text>
+<line fill="none" x1="176.167" y1="63.686" x2="181.167" y2="63.686"/>
+<line fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-miterlimit="10" x1="176.167" y1="63.686" x2="181.167" y2="63.686"/>
+<text transform="matrix(1 0 0 1 159.9604 66.1763)" fill="#FFFFFF" font-family="'CMR17'" font-size="9.9626">100</text>
+<line fill="none" x1="176.167" y1="28.981" x2="181.167" y2="28.981"/>
+<line fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-miterlimit="10" x1="176.167" y1="28.981" x2="181.167" y2="28.981"/>
+<text transform="matrix(1 0 0 1 159.9604 31.4712)" fill="#FFFFFF" font-family="'CMR17'" font-size="9.9626">140</text>
+<line fill="none" x1="176.167" y1="11.628" x2="181.167" y2="11.628"/>
+<line fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-miterlimit="10" x1="176.167" y1="11.628" x2="181.167" y2="11.628"/>
+<text transform="matrix(0 -1 1 0 155.626 85.0728)" fill="#FFFFFF" font-family="'CMR17'" font-size="8.9664">∆G(pA</text>
+<text transform="matrix(0 -1 1 0 155.626 57.6646)" fill="#FFFFFF" font-family="'CMMI12'" font-size="8.9664">/</text>
+<text transform="matrix(0 -1 1 0 155.625 53.2759)" fill="#FFFFFF" font-family="'CMR17'" font-size="8.9664">V)</text>
+<line fill="none" stroke="#FFFFFF" stroke-linecap="square" stroke-miterlimit="10" x1="176.167" y1="115.745" x2="283.696" y2="115.745"/>
+<line fill="none" stroke="#FFFFFF" stroke-linecap="square" stroke-miterlimit="10" x1="283.696" y1="115.745" x2="283.696" y2="11.628"/>
+<line fill="none" stroke="#FFFFFF" stroke-linecap="square" stroke-miterlimit="10" x1="176.167" y1="115.745" x2="176.167" y2="11.628"/>
+<line fill="none" x1="283.696" y1="115.745" x2="278.696" y2="115.745"/>
+<line fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-miterlimit="10" x1="283.696" y1="115.745" x2="278.696" y2="115.745"/>
+<path fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-miterlimit="10" d="M278.696,56.249"/>
+<path fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-miterlimit="10" d="M283.696,56.249"/>
+<line fill="none" x1="283.696" y1="11.628" x2="278.696" y2="11.628"/>
+<line fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-miterlimit="10" x1="283.696" y1="11.628" x2="179.372" y2="11.628"/>
+<text transform="matrix(1 0 0 1 84.4302 68.3901)" font-family="'CMUSerif-RomanSlanted'" font-size="12">ν=5/2</text>
+<text transform="matrix(1 0 0 1 84.4302 68.3901)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" font-family="'CMUSerif-RomanSlanted'" font-size="12">ν=5/2</text>
 </svg>
